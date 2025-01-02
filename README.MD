@@ -3,7 +3,7 @@
 ## Overview
 This is a data science project that uses Python, Pandas, Plotly, and other tools to analyze data related to fatal force incidents by police in the United States. It includes data cleaning, exploratory data analysis, and various visualizations such as bar charts, pie charts, histograms, and choropleth maps. The analysis covers various aspects such as the number of incidents by city, median household income, education levels, poverty levels, and racial demographics.
 
-This project is based on data compiled by [The Washington Post](https://github.com/washingtonpost/data-police-shootings), which has been tracking fatal police shootings in the United States since January 1, 2015. The Washington Post also conducts its own research on the data to provide additional insights (https://www.washingtonpost.com/graphics/investigations/police-shootings-database/).
+This project is based on data compiled by The Washington Post, the [Fatal Force Database](https://github.com/washingtonpost/data-police-shootings), which has been tracking fatal police shootings in the United States since January 1, 2015. The Washington Post also conducts its [own research on the data](https://www.washingtonpost.com/graphics/investigations/police-shootings-database/) to provide additional insights .
 
 Created purely for the joy of coding, this project serves as a showcase of my skills in my personal portfolio. The inspiration comes from the course "100 Days of Code: The Complete Python Pro Bootcamp" by Angela Yu. While the course provided guidance and taught the tools, this project represents my personal interpretation and application of the concepts learned, with most of the work being original.
 
